@@ -3,9 +3,6 @@
 <lu>
 	<li>BERT (Bidirectional Encoder Representations from Transformers) is a powerful natural language processing model that uses a bidirectional approach to language modeling, considering the context from both left and right sides of a word in a sentence.</li>
 </lu><br>
-<div align="center">
-	<img src="https://raw.githubusercontent.com/jessevig/bertviz/master/images/head-view.gif"  weight = 250  height = 250/>
-</div>
 <h1>Why do we use it</h1>
 <lu>
 	<li>BERT is used in NLP because it significantly improves the understanding of the context and meaning of words in a sentence. It can be fine-tuned for various NLP tasks, such as text classification, named entity recognition, question answering, and more, leading to state-of-the-art results in these tasks.</li>
